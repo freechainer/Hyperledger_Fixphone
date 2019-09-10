@@ -140,4 +140,4 @@ func main() {
 	}
 }
 
-// 중고폰 체인코드
+// 중고폰 chaincode
