@@ -139,3 +139,5 @@ func main() {
 		fmt.Printf("Error starting SimpleAsset chaincode: %s", err)
 	}
 }
+
+// 중고폰 체인코드
